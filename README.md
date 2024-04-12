@@ -19,8 +19,8 @@ Use Adaptive thresholding to segment the image.
 Use Otsu's method to segment the image and display the results.
 ## Program
 ```
-DEVELOPED BY: P Ramsai
-REGISTER NO: 212221240041
+DEVELOPED BY: Ragul VK
+REGISTER NO: 212221240043
 ```
 ### Load the necessary packages
 ```
